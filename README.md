@@ -10,5 +10,4 @@ As a final project for my MSc I developed a Machine Learning application targete
 - Deployed using Convolution Neural Network design principals
 - Achieved 97% accuracy when trained using the Cohn Kanade (CK+) FER dataset
 
-## Screenshots
 
